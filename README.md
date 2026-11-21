@@ -41,10 +41,11 @@ The storyboard sites out there were either paid, limited, or didn't match the te
 
 There is nothing to install.
 
-1. **Download** the app file, **`Abhinandan's Storyboard Builder_v2.6.3.html`**, from this repository.
-2. **Open it in your browser** by double-clicking the file (Chrome, Edge, Firefox, or Safari on a desktop or laptop works best).
-3. Wait 2 to 3 seconds for the loading screen, which shows the app name and the developer's contact details.
-4. You land on a blank project. Start building.
+1. **Download** the app file, **`Abhinandan's Storyboard Builder_v2.6.3.zip`**, from this repository.
+2. Extract the contents from the downloaded .zip file (Abhinandan's Storyboard Builder_v2.6.3.html).
+3. **Open it in your browser** by double-clicking the file (Chrome, Edge, Firefox, or Safari on a desktop or laptop works best).
+4. Wait 2 to 3 seconds for the loading screen, which shows the app name and the developer's contact details.
+5. You land on a blank project. Start building.
 
 > 💻 **Best on desktop.** Hover descriptions (small tooltips that explain each button) only appear on desktop, where there is a mouse to hover with.
 
